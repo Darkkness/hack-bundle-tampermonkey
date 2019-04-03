@@ -1,1 +1,1 @@
-# this is hackbundle tampermonkey script
+# this is repo of tampermonkey scripts for hacking games
