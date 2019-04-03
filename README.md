@@ -3,9 +3,9 @@ check out supported websites file for a list
 
 check out the scripts folder for scripts
 
-KRUNKER.IO HACK INCLUDES
+# KRUNKER.IO HACK INCLUDES
 
-[aimbot
+aimbot
 
 esp
 
@@ -13,11 +13,11 @@ bhop
 
 speed hack
 
-custom aim settings]
+custom aim settings
 
-MOOMOO.IO HACK INCLUDES
+# MOOMOO.IO HACK INCLUDES
 
-[autoheal
+autoheal
 
 better minimap
 
@@ -27,7 +27,16 @@ insta-kill
 
 easy bow
 
-fast trap build bot]
+fast trap build bot
 
+# SLITHER.IO HACK INCLUDES
+
+predetor bot
+
+zoom hack 
+
+auto respawn
+
+auto kill
 
 
