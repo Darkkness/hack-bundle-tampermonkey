@@ -4,7 +4,7 @@ check out supported websites file for a list
 
 KRUNKER.IO HACK INCLUDES
 
-aimbot
+[aimbot
 
 esp
 
@@ -12,12 +12,11 @@ bhop
 
 speed hack
 
-custom aim settings
-
+custom aim settings]
 
 MOOMOO.IO HACK INCLUDES
 
-autoheal
+[autoheal
 
 better minimap
 
@@ -27,7 +26,7 @@ insta-kill
 
 easy bow
 
-fast trap build bot
+fast trap build bot]
 
 
 
