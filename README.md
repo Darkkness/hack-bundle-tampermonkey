@@ -1,6 +1,7 @@
 # this is repo of tampermonkey scripts for hacking games
 check out supported websites file for a list
 
+check out the scripts folder for scripts
 
 KRUNKER.IO HACK INCLUDES
 
