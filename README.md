@@ -6,7 +6,9 @@ check out the scripts folder for scripts
 
 download tamper monkey at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
-click add new script copy add paste a script from the scripts folder go to website you want to hack reload and enjoy
+click add new script copy and paste a script from the scripts folder do command-s
+
+ go to website you want to hack reload and enjoy
 # KRUNKER.IO HACK INCLUDES
 
 aimbot
@@ -42,5 +44,31 @@ zoom hack
 auto respawn
 
 auto kill
+# AGAR.IO HACK INCLUDES
+
+TAB - Switch selected blob
+
+8 - Self destruct (spectacular when you're really big)
+
+A - Toggle Acid mode
+
+C - Toggles display of visual cues
+
+D - Cycle through various debug levels
+
+G - Grazing mode
+
+P - Enable/Disable Target Fixaton (see explanation below)
+
+T - Switch target (if Target Fixation is on)
+
+V - Visualization of Target paths evaluated
+
+E - fire at virus near cursor
+
+R - Fire at virus near selected blob (virus is highlighted in red)
+
+O - Enable/Disable firing at virus by left-mouse click (LMB duplicates 'E' functionality)
+
 
 
