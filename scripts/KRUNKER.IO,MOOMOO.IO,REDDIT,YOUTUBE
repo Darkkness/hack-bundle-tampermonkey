@@ -1,10 +1,10 @@
 //if code doesn't work go to  https://greasyfork.org/en/scripts/38857-scriptsource-the-leading-portal-for-web-apps-youtube-reddit-moomoo-io-krunker-io/code
 // ==UserScript==
-// @name        ScriptSource: The Leading Portal for Web Apps [YouTube / Reddit / MooMoo.io / Krunker.io]
+// @name        krunker.io aimbot 
 // @namespace    -
 // @version      38
 // @description  Currently trusted by over 100,000 users!
-// @author       Sammy «Z»#7383
+// @author       unkown
 // @match        *://*.youtube.com/*
 // @match        *://diservers.org/*
 // @match        *://moomoo.io/*
