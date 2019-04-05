@@ -1,3 +1,5 @@
+warning: this is just other people scripts i'm just putting to togther 
+
 # this is repo of tampermonkey scripts for hacking games
 check out supported websites file for a list
 
