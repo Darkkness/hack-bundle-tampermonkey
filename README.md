@@ -2,7 +2,11 @@
 check out supported websites file for a list
 
 check out the scripts folder for scripts
+# HOW TO INSTALL SCRIPTS
 
+download tamper monkey at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+
+click add new script copy add paste a script from the scripts folder go to website you want to hack reload and enjoy
 # KRUNKER.IO HACK INCLUDES
 
 aimbot
