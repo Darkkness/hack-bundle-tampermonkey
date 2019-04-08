@@ -46,3 +46,6 @@ zoom hack
 auto respawn
 
 auto kill
+ # SURVIV.IO HACK INCLUDES
+ 
+ just read the README.md in the hack
