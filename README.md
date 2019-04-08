@@ -48,4 +48,4 @@ auto respawn
 auto kill
  # SURVIV.IO HACK INCLUDES
  
- just read the README.md in the hack
+ just read the README.md in the folder
