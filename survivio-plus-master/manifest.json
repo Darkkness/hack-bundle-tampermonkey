@@ -1,0 +1,83 @@
+{
+	"name": "Survivio+",
+	"version": "0.30.0",
+	"description": "Cheat for surviv.io game.",
+	"permissions": [
+		"tabs",
+		"storage",
+		"*://*/*",
+		"declarativeContent",
+		"webRequest",
+		"webRequestBlocking"
+	],
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": true
+	},
+	"externally_connectable": {
+  		"matches": [
+  			"*://*.surviv.io/*",
+			"*://*.ptr.surviv.io/*",
+  			"*://*.surviv2.io/",
+  			"*://*.2dbattleroyale.com/",
+  			"*://*.2dbattleroyale.org/",
+  			"*://*.piearesquared.info/",
+  			"*://*.thecircleisclosing.com/",
+			"*://*.parmainitiative.com/",
+  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+  		]
+	},
+	"browser_action": {
+		"default_title": "Survivio+",
+		"default_icon": "128.png"
+	},
+	"icons": {
+		"16": "16.png",
+		"48": "48.png",
+		"128": "128.png"
+	},
+	"web_accessible_resources": [
+		"payload/gameVars.js",
+		"payload/gameSetting.js",
+		"payload/gameInit.js",
+		"payload/gameFree.js",
+		"payload/gameOverride.js",
+		"payload/gameUpdate.js",
+		"payload/gameRender.js",
+		"payload/pingOverride.js",
+		"payload/menuAppearance.js",
+		"payload/documentChange.js",
+		"payload/help-en.html",
+		"payload/help-ru.html",
+		"payload/menu.html",
+		"payload/menu.css",
+		"payload/FPSCounter.html",
+		"payload/glitchLogo.css",
+		"third_party/jquery-3.3.1.min.js",
+		"webpack_override.js"
+	],
+	"content_scripts": [{
+		"matches": [
+  			"*://surviv.io/*",
+			"*://*.ptr.surviv.io/*",
+  			"*://surviv2.io/",
+  			"*://2dbattleroyale.com/",
+  			"*://2dbattleroyale.org/",
+  			"*://piearesquared.info/",
+  			"*://thecircleisclosing.com/",
+			"*://*.parmainitiative.com/",
+  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+		],
+		"js": ["start.js"],
+		"css": [
+			"payload/glitchLogo.css",
+			"payload/menu.css",
+			"payload/disableButtons.css"
+		],
+		"run_at": "document_start"
+	}],
+	"manifest_version": 2,
+	"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
